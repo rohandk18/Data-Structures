@@ -54,7 +54,7 @@ public:
 int main()
 {
 	LinkedList *list = new LinkedList();
-    list->create();
+        list->create();
 
 
 
