@@ -33,7 +33,7 @@ public:
 			temp = new node();
 			cout<<"Enter the data";
 			cin>>temp->data;
-                        temp->next=NULL;  //----Use this if it was a singly linked List-------
+                      //temp->next=NULL;  //----Use this if it was a singly linked List-------
 			temp->next = last->next;
 			last->next = temp;
 			last = temp;
