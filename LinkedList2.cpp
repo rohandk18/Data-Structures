@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : LinkedListCalcNodes.cpp
+// Name        : LinkedList2.cpp
 // Author      : 
 // Version     :
 // Copyright   : Your copyright notice
