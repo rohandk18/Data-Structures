@@ -90,8 +90,8 @@ int main()
 	LinkedList *list = new LinkedList();
     list->create();
     list->Display(list->first);
-    list->ReverseByAddress(list->first);
-    //list->Reversebyelement(list->first);
+    list->ReverseByAddress(list->first);     //--------reversing by changing the address of next node------------
+    //list->Reversebyelement(list->first);   //--------reversing by copying the elements to the array------------
     list->Display(list->first);
 
 
